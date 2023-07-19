@@ -63,9 +63,6 @@ The Python Quiz App is deployed using GitHub Pages. Whenever changes are pushed 
 
 Contributions to the Python Quiz App are welcome! If you find any bugs or want to add new features, please feel free to open an issue or submit a pull request.
 
-Before contributing, please read our [contribution guidelines](CONTRIBUTING.md).
-
-
 Thank you for checking out the Python Quiz App! If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy quizzing! 🐍🧠
