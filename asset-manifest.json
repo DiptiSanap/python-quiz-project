@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/python-quiz-project/static/css/main.48854cf9.css",
+    "main.js": "/python-quiz-project/static/js/main.48527aa9.js",
+    "static/js/787.04733bde.chunk.js": "/python-quiz-project/static/js/787.04733bde.chunk.js",
+    "index.html": "/python-quiz-project/index.html",
+    "main.48854cf9.css.map": "/python-quiz-project/static/css/main.48854cf9.css.map",
+    "main.48527aa9.js.map": "/python-quiz-project/static/js/main.48527aa9.js.map",
+    "787.04733bde.chunk.js.map": "/python-quiz-project/static/js/787.04733bde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48854cf9.css",
+    "static/js/main.48527aa9.js"
+  ]
+}
